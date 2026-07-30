@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-data-structures",
+      "title": "Python Data Structures",
+      "description": "Work with lists, dictionaries, sets, and tuples to store and organize data",
+      "path": "assignments/python-data-structures",
+      "dueDate": "2026-08-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
