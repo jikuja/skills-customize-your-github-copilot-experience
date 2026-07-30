@@ -86,6 +86,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "python-error-handling",
+      "title": "Python Error Handling",
+      "description": "Write robust programs using try/except/finally blocks, multiple exception types, and custom exceptions",
+      "path": "assignments/python-error-handling",
+      "dueDate": "2026-08-06",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
